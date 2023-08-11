@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3lia6 (Elias)
+- 👋 Hi, I’m @a113rick (Rick Sanchez)
 - 👀 I’m interested in coding and software development
 - 🌱 I’m currently learning php and laravel
 - 💞️ I’m looking to collaborate on ...
