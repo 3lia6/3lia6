@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @a113rick (Rick Sanchez)
+- 👋 Hi, I’m @eliasmwewa 
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning php and laravel
+- 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me eliashickeysr@outlook.com
+- 📫 How to reach me elias.mwewah2017@gmail.com
 
 <!---
 3lia6/3lia6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
